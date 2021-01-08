@@ -1,0 +1,28 @@
+PySpark Resources:
+
+1) Data Engineering Pipelines in Python (Video Course): Introduction to data pipelines, taps and targets using the singer library in Python,
+plus basics of ETL pipelines with Pyspark, including filters and preprocessing of Big Data. Also introduces to Apache Airflow.
+
+Link: https://www.datacamp.com/courses/building-data-engineering-pipelines-in-python
+
+
+2) Building Machine Learning Pipelines PySpark: Blog by Analytics Vidya. Tutorial on creating data preprocessing, exploration and ML pipelines.
+
+Link: https://www.analyticsvidhya.com/blog/2019/11/build-machine-learning-pipelines-pyspark/   
+
+
+3) Pyspark Tutorial on TutorialsPoint
+
+Link: https://www.tutorialspoint.com/pyspark/index.htm
+
+
+4) Complete PySpark Tutorial (Guru99):
+
+Link: https://www.guru99.com/pyspark-tutorial.html
+
+
+5) Data preprocessing in apache spark:
+
+Link: https://medium.com/@ardianumam/data-preprocessing-in-apache-spark-27d4c63fcb74
+
+ 
