@@ -20,8 +20,7 @@ be linearly separable
 
 Please note that this script is for a static dataset. If the data is being updated
 over regular intervals, this script will need to be supplemented by a singer data
-pipeline being run at regular intervals. If needed, do let me know and I will try
-to implement this feature
+pipeline being run at regular intervals.
 '''
 #Importing libraries and creating a spark session
 import numpy as np
